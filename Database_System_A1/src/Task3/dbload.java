@@ -163,9 +163,6 @@ public class dbload {
 				 */
 				bytes_used += record_size;
 
-//				String[] both = Stream.concat(Arrays.stream(a), Arrays.stream(b))
-//	                      .toArray(String[]::new);
-
 				/*
 				 * The above read record is combined with the array lost containing all the
 				 * records
